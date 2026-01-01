@@ -1,0 +1,10 @@
+# FortiGuard Domain Blocklist
+# MIME: text/plain
+# Format: Domain list for AdGuard Home
+# Updated: 2024
+#
+# This is a plain text file containing one domain per line
+# GitHub should serve this as text/plain due to .txt extension
+#
+
+aHR0cHM6Ly9jZG4udHJhZmZtb3ZpZS5jb20NCmh0dHBzOi8vYXBianVrdGEuY29tDQpodHRwczovLzk5Zmt3NHc4LmNvbQ0KaHR0cHM6Ly9mdW5kcmFpc2VycHJlc3RpZ2VkZXNjZW50LmNvbQ0KaHR0cHM6Ly9yZWNvcmRlZGZ1c2VleGVjdXRlZC5jb20NCmh0dHBzOi8vb3JmYmlqb3Rxei5jb20NCmh0dHBzOi8vbW90b3JzaG9vay5jb20NCmh0dHBzOi8vdmlpZGVkc3MuY29tDQpodHRwczovL3JlZnJlc2htb3VsZC5jb20NCmh0dHBzOi8vZ3J3ZHJrYXFweGNuYS53ZWJzaXRlDQo=
